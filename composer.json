@@ -44,7 +44,11 @@
         }
     },
     "require-dev": {
-        "emico/code-quality": "^10.8"
+        "bitexpert/phpstan-magento": "^0.44",
+        "emico/code-quality": "^10.8",
+        "magento/magento-coding-standard": "^41",
+        "phpstan/extension-installer": "^1.4",
+        "phpstan/phpstan": "^2.1"
     },
     "config": {
         "sort-packages": true,
